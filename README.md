@@ -1,13 +1,13 @@
 ## Hi, I'm Jerad Rhinehart 👋
 
-I'm an aspiring **Python developer** and **IT professional** currently building out my skills in scripting, automation, and systems administration. I am passionate about learning, building, and documenting everything I create — whether it's part of my homelab or a coding project.
+**Python developer** and **IT technician** focused on scripting, automation, and systems administration. I enjoy learning new technologies, solving problems, and documenting my work—whether it's through coding projects or managing my home lab.
 
-### What I'm working on:
+### Current Work:
 * Studying for the **CompTIA A+** certification
 * Expanding my **homelab** (documenting setups, tools, and experiments)
 * Developing small to mid-size **Python projects** ([see my repositories](https://github.com/hehe9999?tab=repositories))
 
-### What I have planned for the future:
+### Future Goals:
 * Earning additional certifications:
     * **CompTIA:** Network+, Security+, Server+, Linux+ certs
     * **Cisco:** CCNA, CCNP Enterprise certs
